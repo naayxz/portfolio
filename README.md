@@ -34,6 +34,21 @@ Além de colocar em prática conceitos importantes como:
 ⸻
 
 📂 Estrutura do Projeto
+```
+projeto/
+│
+├── index.html
+│
+├── html/
+│    ├── detalhes.html
+│    └── contato.html
+│
+├── css/
+│    └── style.css
+│
+├── img/
+     └── (imagens utilizadas no site)
+```
 
 👩‍💻 Sobre Mim
 
