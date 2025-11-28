@@ -38,16 +38,10 @@ Além de colocar em prática conceitos importantes como:
 projeto/
 │
 ├── index.html
-│
-├── html/
-│    ├── detalhes.html
-│    └── contato.html
-│
 ├── css/
 │    └── style.css
-│
 ├── img/
-     └── (imagens utilizadas no site)
+     └── (minha foto)
 ```
 
 👩‍💻 Sobre Mim
