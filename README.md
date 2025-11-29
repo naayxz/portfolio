@@ -60,7 +60,10 @@ Este portfólio representa um pouco da minha evolução e dedicação na área d
 • ✔ Formulário completo de contato
 • ✔ Layout estilizado com cores, fontes e hover
 
-
+Imagem do projeto no FIGMA
+![https://github.com/naayxz/portfolio/blob/main/img/printfigma1.png]
+![]
+![]
 ⸻
 
 🌐 Publicação
