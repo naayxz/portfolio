@@ -65,7 +65,6 @@ Imagem do projeto no FIGMA
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03de037c-a5c8-4d1d-b1c2-80f72bc7aedd" />
 2. → Página do produto.
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/535d3b77-9927-470a-a56a-6ca769c93317" />
-
 3. → Tela do formulário de contato.
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7204850a-7ac5-428c-8a40-9744e0ea6069" />
 ⸻
