@@ -67,7 +67,7 @@ Este portfólio representa um pouco da minha evolução e dedicação na área d
 
 O site foi publicado no GitHub Pages e pode ser acessado através do link:
 
-👉 adicione aqui o link depois de publicar
+👉  https://naayxz.github.io/portfolio/
 
 ⸻
 
