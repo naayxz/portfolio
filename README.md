@@ -62,7 +62,8 @@ Este portfólio representa um pouco da minha evolução e dedicação na área d
 
 Imagem do projeto no FIGMA
 1. → Tela inicial.  
- <img width="1920" height="1080" alt="image" src="[https://github.com/user-attachments/assets/e5d2f58f-51da-4fa4-a278-aadf434372de]" />
+ <img width="1920" height="1080" alt="image" src="[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03de037c-a5c8-4d1d-b1c2-80f72bc7aedd" />
+]" />
 2. → Página do produto.
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2ae36b5-a50b-4ee6-8dac-e37d4c22085c" />
 3. → Tela do formulário de contato.
