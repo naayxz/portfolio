@@ -61,9 +61,12 @@ Este portfólio representa um pouco da minha evolução e dedicação na área d
 • ✔ Layout estilizado com cores, fontes e hover
 
 Imagem do projeto no FIGMA
-<img scr="https://github.com/naayxz/portfolio/blob/main/img/printfigma1.png" width="400px">
-<img scr="" width="400px"
-<img scr="" width="400px"
+1. → Tela inicial.  
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5d2f58f-51da-4fa4-a278-aadf434372de" />
+2. → Página do produto.
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2ae36b5-a50b-4ee6-8dac-e37d4c22085c" />
+3. → Tela do formulário de contato.
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7204850a-7ac5-428c-8a40-9744e0ea6069" />
 ⸻
 
 🌐 Publicação
