@@ -60,13 +60,6 @@ Este portfólio representa um pouco da minha evolução e dedicação na área d
 • ✔ Formulário completo de contato
 • ✔ Layout estilizado com cores, fontes e hover
 
-Imagem do projeto no FIGMA
-1. → Tela inicial.  
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03de037c-a5c8-4d1d-b1c2-80f72bc7aedd" />
-2. → Página do produto.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/535d3b77-9927-470a-a56a-6ca769c93317" />
-3. → Tela do formulário de contato.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8b1fa2b-3256-42de-a1e4-6a10854a704e" />
 
 ⸻
 
