@@ -61,9 +61,9 @@ Este portfólio representa um pouco da minha evolução e dedicação na área d
 • ✔ Layout estilizado com cores, fontes e hover
 
 Imagem do projeto no FIGMA
-![https://github.com/naayxz/portfolio/blob/main/img/printfigma1.png]
-![]
-![]
+<img scr="https://github.com/naayxz/portfolio/blob/main/img/printfigma1.png" width="400px">
+<img scr="" width="400px"
+<img scr="" width="400px"
 ⸻
 
 🌐 Publicação
