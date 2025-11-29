@@ -28,7 +28,6 @@ Além de colocar em prática conceitos importantes como:
 🛠️ Tecnologias Utilizadas
 	•	HTML5
 	•	CSS3
-	•	Flexbox
 	•	Estrutura de pastas organizada (img, css, docs)
 
 ⸻
@@ -54,13 +53,13 @@ Este portfólio representa um pouco da minha evolução e dedicação na área d
 
 🚀 Funcionalidades da Página
 
-✔ Menu de navegação
-✔ Seção “Sobre mim” com foto e descrição
-✔ Lista de projetos com links
-✔ Tabela de habilidades
-✔ Formulário completo de contato
-✔ Layout estilizado com cores, fontes e hover
-✔ Responsividade básica com Flexbox
+• ✔ Menu de navegação
+• ✔ Seção “Sobre mim” com foto e descrição
+• ✔ Lista de projetos com links
+• ✔ Tabela de habilidades
+• ✔ Formulário completo de contato
+• ✔ Layout estilizado com cores, fontes e hover
+
 
 ⸻
 
